@@ -12,19 +12,7 @@ Desenvolver uma urna eletrônica funcional, com autenticação via cartão RFID,
 
 ## 📦 Estrutura do Repositório
 
-📁 codigo/ 
-  → Código-fonte completo desenvolvido em MikroC Pro for PIC 
-📁 diagramas/ 
-  → Diagramas elétricos e fluxogramas do projeto 
-📁 modelo-3d/ 
-  → Modelo 3D da estrutura da urna feito no Fusion 360 
-📁 monografia/ 
-  → Documento final do TCC e slides de apresentação 
-📁 midia/ 
-  ┣ 📁 fotos/ 
-      → Imagens do protótipo físico 
-  ┗ 📁 videos/ 
-      → Demonstrações em vídeo do funcionamento 📄 README.md → Você está aqui 🙂 📄 LICENSE → Licença do projeto (MIT recomendada)
+📁 codigo/ → Código-fonte completo desenvolvido em MikroC Pro for PIC 📁 diagramas/ → Diagramas elétricos e fluxogramas do projeto 📁 modelo-3d/ → Modelo 3D da estrutura da urna feito no Fusion 360 📁 monografia/ → Documento final do TCC e slides de apresentação 📁 midia/ ┣ 📁 fotos/ → Imagens do protótipo físico ┗ 📁 videos/ → Demonstrações em vídeo do funcionamento 📄 README.md → Você está aqui 🙂
 
 
 ---
