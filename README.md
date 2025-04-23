@@ -60,16 +60,16 @@ Desenvolver uma urna eletrônica funcional, com autenticação via cartão RFID,
 
 ### 🖼️ Protótipo Físico
 
-![Protótipo da Urna](midia/fotos/prototipo.jpg)
+![Protótipo da Urna](midia/fotos/1.jpg)
 
 ---
 
 ## 📄 Documentação
 
-- **Monografia:** [`monografia/TCC_UrnaEletronica.pdf`](monografia/TCC_UrnaEletronica.pdf)
-- **Slides:** [`monografia/Apresentacao_Slides.pdf`](monografia/Apresentacao_Slides.pdf)
-- **Diagrama Elétrico:** [`diagramas/diagrama_eletrico.pdf`](diagramas/diagrama_eletrico.pdf)
-- **Fluxogramas:** [`diagramas/fluxogramas.pdf`](diagramas/fluxogramas.pdf)
+- **Monografia:** [`monografia/TCC_UrnaEletronica.pdf`](monografia/Monografia.pdf)
+- **Slides:** [`monografia/Apresentacao_Slides.pdf`](monografia/Slides.pptx)
+- **Diagrama Elétrico:** [`diagramas/diagrama_eletrico.pdf`](diagramas/Diagrama_Elétrico.pdf)
+- **Fluxogramas:** [`diagramas/fluxogramas.pdf`](diagramas/Fluxograma.pdf)
 
 ---
 
