@@ -1,4 +1,4 @@
-# 🗳️ Urna Eletrônica com Autenticação por RFID – TCC Técnico em Eletrônica
+# 🗳️ Urna Eletrônica com Autenticação por RFID – TCC 
 
 Este repositório apresenta o desenvolvimento completo da **Urna Eletrônica com Reconhecimento por Aproximação (RFID)**, projeto realizado como Trabalho de Conclusão de Curso (TCC) do curso Técnico em Eletrônica na **ETEC Getúlio Vargas**.
 
