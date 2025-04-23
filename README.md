@@ -55,7 +55,7 @@ Desenvolver uma urna eletrônica funcional, com autenticação via cartão RFID,
 ## 📷 Demonstrações
 
 ### ▶️ Vídeo do Funcionamento
-🔗 *[Inserir link para vídeo hospedado no YouTube ou outro serviço]*  
+🔗 *https://youtu.be/0xHUrKBCcOE*  
 *Ou acesse a pasta `/midia/videos/` para ver os vídeos incluídos.*
 
 ### 🖼️ Protótipo Físico
